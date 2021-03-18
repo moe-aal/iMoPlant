@@ -1,0 +1,11 @@
+DELAY 2000
+GUI r
+DELAY 200
+STRING notepad.exe
+DELAY 600
+ENTER
+DELAY 200
+STRING You've been hacked!
+DELAY 200
+ENTER
+
