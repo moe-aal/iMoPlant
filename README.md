@@ -4,8 +4,8 @@
 ![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/1.png)</br>
 This may seem as though it is an ordinary iPhone charging cable – (aka lightning cable). Well, it is not! The cable indeed resembles a genuine iPhone lightning cable but that is the idea behind its purpose. This cable, named the iMoPlant, can hack any computer in a matter of seconds. The evil mastermind resides in the connector plug of the USB-A end, within the enclosure, soldered onto the USB pads, where it cannot be seen nor detached. Throughout this article, I will walk you through how to come about programming the iMoPlant to attack both MacOS and Windows-based computers.</br>
 ### How Does it Work?
-Inside the USB-A male plug enclosure, there is an implant, a hardware implant. That is, a two-layer, extremely tiny board. The top layer of which has a chip and passive components soldered onto it. The bottom layer, however, has four-pad contacts that are soldered onto the USB. The implant can be programmed to execute various payloads. Once the USB is connected to the target computer, the implant will be powered on and will start executing pre-loaded commands. 
-
+Inside the USB-A male plug enclosure, there is an implant, a hardware implant. That is, a two-layer, extremely tiny board. The top layer of which has a chip and passive components soldered onto it. The bottom layer, however, has four-pad contacts that are soldered onto the USB. The implant can be programmed to execute various payloads. Once the USB is connected to the target computer, the implant will be powered on and will start executing pre-loaded commands.</br>
+![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/3.png)</br>
 Simply put, it acts as a keyboard. A super-fast one. A keyboard that is capable of injecting keystrokes at lightning speed. When plugged into a computer, the iMoPlant Cable will identify itself as a keyboard. As a matter of fact, it will identify itself as a Human Device Interface (HID), which makes it possible to emulate a mouse as well (depending on the code uploaded).
 
 
