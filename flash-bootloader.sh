@@ -4,6 +4,7 @@ echo "+------------------------------------------+"
 echo -e "\nDeveloped by moe-aal\n"
 echo "+------------------------------------------+"
 echo -e "\nBootloader-Flasher\n"
+echo -e "\nThis will flash the bootloader through the SPI interface via arduino. If you wish to upload the bootloader through a different interface, change '-c' input accordingly.\n"
 echo "+------------------------------------------+"
 
 
