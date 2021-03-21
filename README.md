@@ -38,3 +38,6 @@ ENTER
 Note, <ins>you will have 59 seconds to plug in the iMoPlant before the process times out.</ins></br></br>
 `sudo ./imoplanter payload.txt`
 
+## Execution
+Now that the code is uploaded to the iMoPlant, just plug it in the target's machine (a Windows machine in this case), and the code will be executed.<br/>
+
