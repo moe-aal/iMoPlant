@@ -9,8 +9,10 @@
 4. `sudo ./installer.sh` </br>
 
 ## Building the Payload
+**Create new file named payload.txt and paste the following to it**</b>
+Better yet, look online for Rubber-Ducky Payloads and find the payload that suits your needs.
 ```
-DELAY 1000
+DELAY 1000 
 GUI r
 DELAY 800
 ENTER
