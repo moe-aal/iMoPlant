@@ -17,7 +17,7 @@ Simply put, it acts as a keyboard. A super-fast one. A keyboard that is capable 
 4. `sudo ./installer.sh` </br>
 
 ## Building the Payload
-**Create a new file named *payload.txt* and paste the following to it**</br>
+**Create a new file named *payload.txt* and paste the following to it**.</br>
 Better yet, **look for Rubber-Ducky Payloads online** and find the payload that suits your needs. <br/>
 You can find a handful of payload options here **https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads**.</br>
 For **demonstration purposes**, we will use the following payload. </br>
