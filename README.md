@@ -3,8 +3,8 @@
 
 ## Installation
 
-`git clone https://github.com/moe-aal/iMoPlant.git`. 
-`cd iMoPlant`. 
-`chmod * .sh`. 
-`sudo ./installer.sh`. 
+`git clone https://github.com/moe-aal/iMoPlant.git` </br>
+`cd iMoPlant` </br>
+`chmod * .sh` </br>
+`sudo ./installer.sh` </br>
 
