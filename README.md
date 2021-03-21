@@ -25,3 +25,8 @@ STRING PLEASE SEARCH ONLINE FOR RUBBER DUCKY PAYLOAD TO USE
 DELAY 500
 ENTER
 ```
+## Uploading the Payload
+**Run the following command,** and** **then plug in the iMoPlant Cable**. </br>
+Note, you will have 59 seconds before the process times out.
+`sudo ./imoplanter payload.txt`
+
