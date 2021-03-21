@@ -27,6 +27,6 @@ ENTER
 ```
 ## Uploading the Payload
 **Run the following command,** and **then plug in the iMoPlant Cable**. </br>
-Note, <ins>you will have 59 seconds before the process times out.</ins></br>
+Note, <ins>you will have 59 seconds before the process times out.</ins></br></br>
 `sudo ./imoplanter payload.txt`
 
