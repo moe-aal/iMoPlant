@@ -20,6 +20,6 @@ then
 	help
 	exit 1
 else
-	avrdude  -v -P $1  -c avrisp -p attiny85  -Uflash:w:/Users/m0e/Downloads/micronucleus-master/upgrade/t85_default.hex:i -U lfuse:w:0xe1:m -U hfuse:w:0xdd:m -U efuse:w:0xfe:m -b 19200 
+	avrdude  -v -P $1  -c avrisp -p attiny85  -Uflash:w:Bootloader/iMoBoot.hex:i -U lfuse:w:0xe1:m -U hfuse:w:0xdd:m -U efuse:w:0xfe:m -b 19200 
 fi
 #end
