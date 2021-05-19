@@ -1,6 +1,6 @@
 # iMoPlant - Hack Any Computer in Seconds with the iMoPlant Cable
 
-![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/demo.png)</br>
+![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/demo.gif)</br>
 
 ## Introduction
 ![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/1.png)</br>
