@@ -1,5 +1,7 @@
 # iMoPlant - Hack Any Computer in Seconds with the iMoPlant Cable
 
+![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/demo.png)</br>
+
 ## Introduction
 ![alt text](https://github.com/moe-aal/iMoPlant/blob/main/images/1.png)</br>
 This may seem as though it is an ordinary iPhone charging cable – (aka lightning cable). Well, it is not! The cable indeed resembles a genuine iPhone lightning cable but that is the idea behind its purpose. This cable, named the iMoPlant, can hack any computer in a matter of seconds. The evil mastermind resides in the connector plug of the USB-A end, within the enclosure, soldered onto the USB pads, where it cannot be seen nor detached. </br>
